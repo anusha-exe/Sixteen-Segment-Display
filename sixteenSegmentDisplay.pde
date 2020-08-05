@@ -1,3 +1,5 @@
+// This programme based on anusha-exe's seven segment display LED clock programme
+
 //0,1,2,3,...,9,A,...
 int nums[]={
   0xF3C0,
