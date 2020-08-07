@@ -1,6 +1,6 @@
-// This programme based on anusha-exe's seven segment display LED clock programme
+// This programme is based on The Coding Train video on Seven Segment Display
 
-//0,1,2,3,...,9,A,...
+//A, B, C,...Z.
 int nums[]={
   0xF3C0,
   0xFC52,
